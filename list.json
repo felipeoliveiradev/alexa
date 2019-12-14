@@ -1,0 +1,44 @@
+{
+  "value": [{
+    "id": 1,
+    "joke": "Pegou sua chave?.",
+    "categories": [
+      "explicit"
+    ]
+  },
+  {
+    "id": 2,
+    "joke": "Pegou seu cracha?.",
+    "categories": [
+      "explicit"
+    ]
+  },
+  {
+    "id": 3,
+    "joke": "Pegou sua carteira?.",
+    "categories": [
+      "explicit"
+    ]
+  },
+  {
+    "id": 4,
+    "joke": "Jogou o lixo fora?.",
+    "categories": [
+      "explicit"
+    ]
+  },
+  {
+    "id": 5,
+    "joke": "Pegou seu almoco?.",
+    "categories": [
+      "explicit"
+    ]
+  },
+  {
+    "id": 6,
+    "joke": "Pegou sua irma.",
+    "categories": [
+      "explicit"
+    ]
+  }]
+}
